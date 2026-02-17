@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "柊",
+  "base_artist": "TenTwenty",
+  "createdAt": "2026-02-17T15:25:19.869556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "柊",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/01_柊_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "柊",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/02_柊_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "柊 (acoustic version)",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/03_柊_(acoustic_version)_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "柊",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/04_柊_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "柊",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/05_柊_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "01_耳イき止まらず失神寸前！Ｗ高速耳舐め（柊×荻野）",
+      "artist": "あくあぽけっと",
+      "has_synced": true,
+      "path": "select/06_01_耳イき止まらず失神寸前!W高速耳舐め(柊×荻野)_あくあぽけっと.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "03_両耳とろけて深イきハーレム射精（柊×白石×荻野×宮澤）",
+      "artist": "あくあぽけっと",
+      "has_synced": true,
+      "path": "select/07_03_両耳とろけて深イきハーレム射精(柊×白石×荻野×宮澤)_あくあぽけっと.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "08_Ｗ耳イきレッスン1日日（柊×白石）",
+      "artist": "あくあぽけっと",
+      "has_synced": true,
+      "path": "select/08_08_W耳イきレッスン1日日(柊×白石)_あくあぽけっと.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "11_Ｗ耳イきレッスン4日目（柊×宮澤）",
+      "artist": "あくあぽけっと",
+      "has_synced": true,
+      "path": "select/09_11_W耳イきレッスン4日目(柊×宮澤)_あくあぽけっと.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "柊",
+      "artist": "TenTwenty",
+      "has_synced": false,
+      "path": "select/pl_01_柊_TenTwenty.txt"
+    }
+  ]
+}
